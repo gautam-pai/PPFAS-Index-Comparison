@@ -15,3 +15,4 @@ The values are then normalized, by divinding with a constant(value of 23-05-2013
 These are stored in different tables, then joined on the basis of date column.
 
 
+Packaged viz file is named as "PPFAS-Index comparison Static".
